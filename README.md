@@ -1,5 +1,11 @@
 # Tableau-Covid19_Dashboard
 
+Result:
+https://public.tableau.com/app/profile/edward.chen5890/viz/Worldwide_Coivd_19_confirmed_case/Dashboard1?publish=yes
+
+![Alt text](<Dashboard 1.png>)
+
+
 The file is larger than 100MB so I used below link to push the CSV file:
 https://guide.ncloud-docs.com/docs/en/sourcecommit-use-lfs
 
